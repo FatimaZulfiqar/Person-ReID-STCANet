@@ -1,5 +1,4 @@
-# Multi-Camera Person Re-Identification using Spatiotemporal Context Modeling
-This repository conain code of the paper <br>
+This repository conain code of the paper **Multi-Camera Person Re-Identification using Spatiotemporal Context Modeling** <br>
 Fatima Zulfiqar, Usama Ijaz Bajwa, Rana Hammad Raza
 
 ## Abstract
@@ -10,7 +9,7 @@ Installation
 
 Make sure `conda <https://www.anaconda.com/distribution/>`_ is installed.
 
-.. code-block:: bash
+.. code-block::bash
 
     # cd to your preferred directory and clone this repo
     git clone https://github.com/FatimaZulfiqar/Person-ReID-STCANet

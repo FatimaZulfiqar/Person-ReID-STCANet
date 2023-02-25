@@ -9,7 +9,6 @@ Installation
 
 Make sure `conda <https://www.anaconda.com/distribution/>`_ is installed.
 
-.. code-block::bash
 
     # cd to your preferred directory and clone this repo
     git clone https://github.com/FatimaZulfiqar/Person-ReID-STCANet

@@ -1,4 +1,6 @@
-This repository conain code of the paper **Multi-Camera Person Re-Identification using Spatiotemporal Context Modeling** <br>
+# Person ReID STCANet
+This repository conain code of the paper 
+### Multi-Camera Person Re-Identification using Spatiotemporal Context Modeling** <br><br>
 Fatima Zulfiqar, Usama Ijaz Bajwa, Rana Hammad Raza
 
 ## Abstract
